@@ -1,0 +1,11 @@
+pkg: python-dateutil-2.4.2
+dist: python-dateutil-2.4.2-py35_0
+home: https://dateutil.readthedocs.org/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

@@ -1,0 +1,11 @@
+pkg: anaconda-2.4.1
+dist: anaconda-2.4.1-np110py35_0
+home: http://continuum.io/
+license: proprietary - Continuum Analytics, Inc.
+has_bin: False
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

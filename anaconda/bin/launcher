@@ -1,0 +1,4 @@
+#!/bin/sh
+
+open /Users/inomad/python/anaconda/Launcher.app --args -- $@
+

@@ -1,0 +1,11 @@
+pkg: ipython-qtconsole-4.0.1
+dist: ipython-qtconsole-4.0.1-py35_0
+home: http://ipython.org/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: False
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b

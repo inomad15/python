@@ -1,0 +1,14 @@
+prefix=/Users/inomad/python/anaconda
+exec_prefix=/Users/inomad/python/anaconda
+libdir=/Users/inomad/python/anaconda/lib
+includedir=/Users/inomad/python/anaconda/include/freetype2
+
+Name: FreeType 2
+URL: http://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 17.4.11
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}

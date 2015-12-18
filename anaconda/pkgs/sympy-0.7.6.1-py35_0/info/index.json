@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64", 
+  "build": "py35_0", 
+  "build_number": 0, 
+  "depends": [
+    "fastcache", 
+    "python 3.5*"
+  ], 
+  "license": "3-clause BSD", 
+  "license_family": "BSD", 
+  "name": "sympy", 
+  "platform": "osx", 
+  "requires": [
+    "fastcache 1.0.2", 
+    "python 3.5"
+  ], 
+  "subdir": "osx-64", 
+  "version": "0.7.6.1"
+}

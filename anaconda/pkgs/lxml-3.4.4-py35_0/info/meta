@@ -1,0 +1,11 @@
+pkg: lxml-3.4.4
+dist: lxml-3.4.4-py35_0
+home: http://lxml.de/
+license: BSD
+has_bin: False
+has_lib: False
+has_py: True
+==> sw_vers <==
+ProductName:	Mac OS X
+ProductVersion:	10.7.5
+BuildVersion:	11G63b
