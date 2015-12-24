@@ -1,5 +1,0 @@
-#!/Users/inomad/python/anaconda/bin/python3
-import sys
-from conda_build.main_develop import main
-
-sys.exit(main())
